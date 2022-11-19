@@ -1,6 +1,5 @@
-#Практика 1. Числа Фибоначчи на Python.
-#Изменение времени работы функций. 
-#Построение графиков.
+1. Fibonacci numbers
+#Dependence of the time of functions.
 
 def fib1(n):
 	assert n >= 0
